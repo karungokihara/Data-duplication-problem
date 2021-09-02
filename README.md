@@ -1,7 +1,5 @@
-# Data-duplication-problem
-This is a research done based on the data duplication to adress the problem of duplication
-
-
+#  MULTI ENVIRONMENT BIG DATA DEDUPLICATION SOLUTION 
+A MULTI ENVIRONMENT BIG DATA DEDUPLICATION SOLUTION FOR CLOUD STORAGE SYSTEMS by ERASTUS. karungokihara@gmail.com
 
 
 # 1.	Summary
